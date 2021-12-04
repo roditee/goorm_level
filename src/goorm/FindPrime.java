@@ -19,6 +19,8 @@ public class FindPrime {
 	
 	if (isPrime(A)) System.out.println("True");
 	else System.out.println("False");
+	
+	scan.close();
 		}
 	}
 

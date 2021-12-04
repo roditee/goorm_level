@@ -15,5 +15,6 @@ public class findN {
 				break;
 			}
 		}
+		sc.close();
 	}
 }

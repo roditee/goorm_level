@@ -11,5 +11,7 @@ public class sumOfMeasure {
 			if (n%i == 0) sum+=i;
 		}
 		System.out.println(sum);
+		
+		scan.close();
 	}
 }

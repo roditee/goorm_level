@@ -12,6 +12,8 @@ public class drainageOf3 {
 			if (i%3 == 0) System.out.println('X');
 			else System.out.println(i);
 		}
+		
+		sc.close();
 	}
 
 }

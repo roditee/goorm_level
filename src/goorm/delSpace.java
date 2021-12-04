@@ -8,5 +8,7 @@ public class delSpace {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.next();
 		System.out.println(str.replace(" ", ""));
+		
+		sc.close();
 	}
 }

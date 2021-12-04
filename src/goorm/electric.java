@@ -14,5 +14,7 @@ public class electric {
 		else pay*=0.01;
 		
 		System.out.printf("%.2f", pay);
+		
+		sc.close();
 	}
 }

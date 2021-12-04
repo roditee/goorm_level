@@ -18,6 +18,7 @@ public class testAvgLevel {
 		else if (avg<70 && avg>=60) level = "D";
 		else level = "F";
 		System.out.printf("%.2f %s", avg, level);
+		sc.close();
 	}
 
 }

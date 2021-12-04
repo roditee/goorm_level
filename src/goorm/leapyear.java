@@ -10,5 +10,7 @@ public class leapyear {
 		if (n%4==0 && n%100!=0) System.out.println("Leap Year");
 		else if (n%400==0) System.out.println("Leap Year");
 		else System.out.println("Not Leap Year");
+		
+		sc.close();
 	}
 }

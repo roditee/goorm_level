@@ -27,5 +27,7 @@ public class legoBlock {
 		}
 		
 		System.out.println(cntL + " " + cntR);
+		
+		sc.close();
 	}
 }

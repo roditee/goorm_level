@@ -14,6 +14,8 @@ public class perfectSquare {
 			if (num%Math.sqrt(num)==0) cnt++;
 		}
 		System.out.println(cnt);
+		
+		sc.close();
 	}
 
 }

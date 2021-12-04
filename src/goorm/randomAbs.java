@@ -9,6 +9,8 @@ public class randomAbs {
 		int n = sc.nextInt();
 		
 		System.out.println(Math.abs(n));
+		
+		sc.close();
 	}
 
 }

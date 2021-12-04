@@ -14,6 +14,6 @@ public class security {
 		}
 		if (cnt%2 == 1) System.out.println("yes");
 		else System.out.println("no");
+		sc.close();
 	}
-
 }

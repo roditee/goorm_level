@@ -23,5 +23,7 @@ public class NarcissisticNumber {
 			boolean ret = isNarcissistic(i);
 			if (ret) System.out.printf("%d ",i);
 		}
+		
+		sc.close();
 	}
 }

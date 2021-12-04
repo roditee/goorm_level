@@ -14,5 +14,6 @@ public class findMax {
 			if (num > max) { max = num; idx = i+1;}
 		}
 		System.out.println(max + " " + idx);
+		sc.close();
 	}
 }
